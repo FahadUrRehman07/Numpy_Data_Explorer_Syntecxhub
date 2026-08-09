@@ -350,8 +350,6 @@ Syntecxhub_Numpy_Data_Explorer/
 │
 ├── 📓 Syntecxhub_Numpy_Data_Explorer.ipynb
 │
-├── 💾 syntecxhub_numpy_array.npy
-│
 └── 📖 README.md
 ```
 
@@ -362,7 +360,7 @@ Syntecxhub_Numpy_Data_Explorer/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Syntecxhub_Numpy_Data_Explorer.git
+https://github.com/FahadUrRehman07/Numpy_Data_Explorer_Syntecxhub
 ```
 
 ## 2️⃣ Navigate to the Project
