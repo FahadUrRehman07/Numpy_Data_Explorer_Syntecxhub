@@ -2,7 +2,7 @@
 
 # 🔢 Syntecxhub_Numpy_Data_Explorer
 
-### **Explore • Compute • Transform • Analyze**
+### **Explore • Compute • Transform • Analyze** 
 
 A hands-on NumPy project designed to build practical foundations in
 **numerical computing, array manipulation, data analysis, and computational efficiency.**
